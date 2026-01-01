@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+# C PROJECTS:
+
 | Category                         | Project                                                               | Description                                                        |
 | -------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | **Systems & Concurrency**        | [Mini-Shell](https://github.com/csharpinthecsharp/Mini-Shell)         | Simple Unix shell with piping, redirection, and built-in commands. |
