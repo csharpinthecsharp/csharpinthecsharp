@@ -21,3 +21,8 @@
 | Project                                                         | Description                                                                             |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [Cpp-Modules](https://github.com/csharpinthecsharp/Cpp-Modules) | Collection of C++ exercises covering classes, inheritance, polymorphism, and templates. |
+
+# 🐍 PYTHON PROJECTS
+| Project                                                                                   | Description                                                     |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Terminal Sort Visualizer](https://github.com/csharpinthecsharp/terminal-sort-visualizer) | Python program to visualize sorting algorithms in the terminal. |
