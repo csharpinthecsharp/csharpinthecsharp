@@ -2,6 +2,7 @@
 
 C Projects:
 -> https://github.com/csharpinthecsharp/Mini-Shell
+[...]
 -> https://github.com/csharpinthecsharp/Cub3D-Parser
 -> https://github.com/csharpinthecsharp/SDL-Raycasting
 -> https://github.com/csharpinthecsharp/Dinning-Philo
