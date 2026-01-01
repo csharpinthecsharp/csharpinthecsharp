@@ -17,4 +17,7 @@
 |                                  | [ft_printf](https://github.com/csharpinthecsharp/ft_printf)           | Reimplementation of `printf` supporting multiple formats.          |
 |                                  | [get_next_line](https://github.com/csharpinthecsharp/get_next_line)   | Reads lines from a file descriptor efficiently.                    |
 
-**csharpinthecsharp/csharpinthecsharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# CPP PROJECTS:
+| Project                                                         | Description                                                                             |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Cpp-Modules](https://github.com/csharpinthecsharp/Cpp-Modules) | Collection of C++ exercises covering classes, inheritance, polymorphism, and templates. |
